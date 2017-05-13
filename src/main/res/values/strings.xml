@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RXDev</string>
+
+    <!--下拉上滑动刷新组件-->
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="pull_to_refresh_pull_label" translatable="false">下拉刷新</string>
+    <string name="pull_to_refresh_release_label" translatable="false">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label" translatable="false">加载中&#8230;</string>
+    <string name="pull_to_refresh_update_time_label" translatable="false">上次更新时间 </string>
+    <string name="pull_to_refresh_load_label" translatable="false">上拉加载更多</string>
+    <string name="load_mode_label" translatable="false">加载更多</string>
+
+    <!--录音-->
+    <string name="rec_cancle">手指上滑，取消录音</string>
+    <string name="rec_cancle_end">手指松开，取消录音</string>
+    <string name="rec_normal">按住 说话</string>
+    <string name="rec_recording">松开 结束</string>
+    <string name="rec_tooshort">录音时间过短</string>
+
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+</resources>
